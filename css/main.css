@@ -11,3 +11,20 @@ html {
 body {
   margin: 0;
 }
+
+h2 {
+  text-align: center;
+  padding: 2rem;
+}
+
+li {
+  display: flex;
+  align-content: center;
+  justify-content: space-around;
+  height: 16rem;
+  padding: .5rem 1rem .6rem;
+}
+
+img {
+  flex-shrink: 20;
+}
