@@ -24,6 +24,7 @@ li {
   justify-content: space-around;
   align-items: center;
   height: 9rem;
+  margin: 0 0 1.5rem;
 }
 
 img {
